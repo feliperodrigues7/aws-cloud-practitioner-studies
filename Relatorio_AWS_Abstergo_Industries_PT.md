@@ -41,16 +41,6 @@ A implementação de ferramentas na empresa **Abstergo Industries** tem como esp
 
 ---
 
-## Anexos
-
-- Planilha de comparativo de custos: infraestrutura local vs. AWS
-- Diagrama de arquitetura dos serviços AWS propostos
-- Cronograma de migração e implantação das etapas
-- Manual de uso do Amazon S3 para a equipe administrativa
-- Política de segurança e controle de acesso (IAM) da AWS
-
----
-
 **Assinatura do Responsável pelo Projeto:**
 
 Luiz Felipe Rodrigues de Freitas

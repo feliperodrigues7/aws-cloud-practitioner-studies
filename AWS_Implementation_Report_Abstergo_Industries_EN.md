@@ -41,15 +41,6 @@ The implementation of tools at **Abstergo Industries** is expected to deliver **
 
 ---
 
-## Attachments
-
-- Cost comparison spreadsheet: local infrastructure vs. AWS
-- Architecture diagram of the proposed AWS services
-- Migration and deployment schedule for each stage
-- Amazon S3 user guide for the administrative team
-- AWS security and access control policy (IAM)
-
----
 
 **Project Manager Signature:**
 
